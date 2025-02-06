@@ -5,4 +5,4 @@ Welcome to the Zerodha Landing Page project! This project is a simple yet elegan
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
-Here is the Link: https://vaibhavzerodhalandingpage.netlify.app/
+Here is the Link: https://voluble-nougat-a1ca52.netlify.app/
